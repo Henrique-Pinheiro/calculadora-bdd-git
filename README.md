@@ -6,8 +6,8 @@ Temos a feature calculadora.feature completa escrita na linguagem *Gherkin*, nos
 - Criar os Steps com testes(Asserts) para tornar a feature algo real
 - Criar as Classes que correspondem a cada operação descrita na feature
 - Popular as Classes criadas com os Metodos e Variaveis necessarios para o cumprimento dos requisitos descritos na feature
-- Alterar a feature incluindo cenarios dincamicos
 - Alterar a feature incluindo Esquema do Cenarios para unificar todos os cenarios
+- (WIP) Alterar a feature incluindo cenarios dinamicos
 
 ### Regras:
 1.  A branch base devera ser a branch develop, criada a partir da Master
